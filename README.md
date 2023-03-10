@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Checkout my bachelor thesis if you like: [construction of a software solution for detection of end-of-support dependencies](https://a-grasso.github.io/bachelor-thesis-public/)
+
 <!--
 **a-grasso/a-grasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
