@@ -34,8 +34,3 @@ With Nicolas Bissig at [Bissig & Grasso](https://bissig-grasso.de/) I build **Ca
 <!-- releases:end -->
 
 **Mostly in** Kotlin, Python, Rust and Go, on AWS and Azure. CV, the full portfolio and write-ups at [a-grasso.dev](https://a-grasso.dev).
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-grasso/a-grasso/output/snake-dark.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/a-grasso/a-grasso/output/snake-light.svg" width="100%">
-</picture>
