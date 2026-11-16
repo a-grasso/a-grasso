@@ -1,30 +1,39 @@
-# 💫 About Me:
-Software Engineer with experience in cloud technologies and development;<br>Interests in problem-solving, engineering, architecture and technical leading;<br>M.Sc. degree in computer science with a focus on software engineering.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Antonino Grasso: software engineer and tech lead in Munich. I turn vague ideas into working systems that get used." src="assets/header-light.svg" width="100%">
+</picture>
 
-## Theses:
-- Checkout my bachelor thesis: [construction of a software solution for detection of end-of-support dependencies](https://a-grasso.github.io/bachelor-thesis-public/)
-- Checkout my master thesis: [navigating the space between serverful and serverless : benefits, drawbacks, challenges and mitigations](https://opus4.kobv.de/opus4-hm/frontdoor/index/index/docId/729)
+[![a-grasso.dev](https://img.shields.io/badge/web-a--grasso.dev-1f6f5c?style=flat-square)](https://a-grasso.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a--grasso-0a66c2?style=flat-square)](https://linkedin.com/in/a-grasso)
+[![Bissig & Grasso](https://img.shields.io/badge/company-Bissig_%26_Grasso-3a3a3a?style=flat-square)](https://bissig-grasso.de/)
 
+I'm a software engineer and technical lead in Munich. My day job is leading KUKA's global AI use case team at Device Insight, where I build AI systems for KUKA's businesses, from the first solution sketch to production. Before that I worked on intent-based robotics R&D, cloud SaaS on AWS and IoT platforms.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anto.___.nino) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-grasso) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:antonino.grasso.it@gmail.com) 
+Outside work I build tools for working with coding agents: how they get context, and how they get held to a repository's standards.
 
-# 💻 Tech Stack:
-*Made by GPRM (not exhaustive)*
+### Building in the open
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=a-grasso&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=a-grasso&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a-grasso&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- [**agent-docs-standard**](https://github.com/a-grasso/agent-docs-standard): an AGENTS.md profile that gives coding agents the right context where they need it, and nothing stale.
+- [**reflock**](https://github.com/a-grasso/reflock): a lockfile for cross-references. It flags a doc whose link still works but whose target has changed underneath it.
+- [**turnstile**](https://github.com/a-grasso/turnstile): makes a repository's own checks impossible to forget. A push, or an agent's turn, can't finish while they're red.
+- [**portbook**](https://github.com/a-grasso/portbook): finds the dev servers running on your machine and tells you which is which.
+- [**hexarch**](https://github.com/a-grasso/hexarch): a small YAML DSL for hexagonal architecture, rendered to an interactive diagram.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=a-grasso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+With Nicolas Bissig at [Bissig & Grasso](https://bissig-grasso.de/) I build **Cauzar**, observability on OpenTelemetry that finds what changed before anyone asks, and [**kaibo**](https://bissig-grasso.de/en/kaibo/), engineering doctrine your coding agents load before they start the work.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Latest releases
 
----
-[![](https://visitcount.itsvg.in/api?id=a-grasso&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- releases:start -->
+- [**turnstile**](https://github.com/a-grasso/turnstile) [`v0.2.0`](https://github.com/a-grasso/turnstile/releases/tag/v0.2.0) · Oct 20, 2026
+- [**reflock**](https://github.com/a-grasso/reflock) [`v0.5.0`](https://github.com/a-grasso/reflock/releases/tag/v0.5.0) · Sep 24, 2026
+- [**cursorwrap**](https://github.com/a-grasso/cursorwrap) [`v0.2.2`](https://github.com/a-grasso/cursorwrap/releases/tag/v0.2.2) · Sep 8, 2026
+- [**portbook**](https://github.com/a-grasso/portbook) [`v0.2.4`](https://github.com/a-grasso/portbook/releases/tag/v0.2.4) · Jul 31, 2026
+- [**hexarch**](https://github.com/a-grasso/hexarch) [`v0.1.1`](https://github.com/a-grasso/hexarch/releases/tag/v0.1.1) · Jul 20, 2026
+<!-- releases:end -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Mostly in** Kotlin, Python, Rust and Go, on AWS and Azure. CV, the full portfolio and write-ups at [a-grasso.dev](https://a-grasso.dev).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-grasso/a-grasso/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/a-grasso/a-grasso/output/snake-light.svg" width="100%">
+</picture>

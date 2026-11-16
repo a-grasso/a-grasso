@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title">
+  <title id="title">Antonino Grasso: software engineer and tech lead in Munich</title>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="12" fill="#fafaf8" stroke="#e3e1dc"/>
+  <rect x="64" y="64" width="32" height="3" rx="1.5" fill="#1f6f5c"/>
+  <text class="sans" x="64" y="98" font-size="13" font-weight="600" letter-spacing="2.4" fill="#5e5e5e">SOFTWARE ENGINEER · TECH LEAD · MUNICH</text>
+  <text class="sans" x="61" y="158" font-size="54" font-weight="600" letter-spacing="-1.2" fill="#1a1a1a">Antonino Grasso</text>
+  <text class="sans" x="64" y="202" font-size="20" fill="#5e5e5e">I turn vague ideas into working systems that get used.</text>
+  <g>
+    <rect x="816" y="64" width="320" height="10" rx="3" fill="#1f6f5c"/>
+    <rect x="832" y="86" width="96" height="10" rx="3" fill="#dcd9d2"/>
+    <rect x="936" y="108" width="188" height="10" rx="3" fill="#1f6f5c" opacity="0.8"/>
+    <rect x="948" y="130" width="64" height="10" rx="3" fill="#dcd9d2"/>
+    <rect x="1020" y="152" width="96" height="10" rx="3" fill="#1f6f5c" opacity="0.6"/>
+    <rect x="1028" y="174" width="44" height="10" rx="3" fill="#dcd9d2"/>
+    <rect x="1080" y="196" width="32" height="10" rx="3" fill="#1f6f5c" opacity="0.4"/>
+  </g>
+</svg>
