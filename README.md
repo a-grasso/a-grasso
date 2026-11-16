@@ -1,7 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Antonino Grasso: software engineer and tech lead in Munich. I turn vague ideas into working systems that get used." src="assets/header-light.svg" width="100%">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Antonino Grasso: software engineer and tech lead in Munich. I turn vague ideas into working systems that get used." src="assets/header-light.svg" width="100%">
+  </picture>
+</p>
 
 [![a-grasso.dev](https://img.shields.io/badge/web-a--grasso.dev-1f6f5c?style=flat-square)](https://a-grasso.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a--grasso-0a66c2?style=flat-square)](https://linkedin.com/in/a-grasso)
